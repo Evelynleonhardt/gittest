@@ -20,3 +20,5 @@ git reset --mixed <HASH> ##git reset
 ```sh
 git reset --hard <HASH>  
 ```
+
+# Primer titulo de este README.md 
